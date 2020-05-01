@@ -11,6 +11,6 @@ if n == 0
 end
 end
 
-countdown(10)
+countdown
 
 def countdown_
