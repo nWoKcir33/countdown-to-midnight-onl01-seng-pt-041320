@@ -11,6 +11,4 @@ if n == 0
 end
 end
 
-countdown
-
-def countdown_
+countdown(n)
