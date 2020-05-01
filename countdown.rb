@@ -8,4 +8,4 @@ end
  "HAPPY NEW YEAR!"
 end
 
-countdown(n)
+countdown(num)
