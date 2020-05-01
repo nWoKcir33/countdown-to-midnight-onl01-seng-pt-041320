@@ -2,8 +2,8 @@
 
 def countdown(n)
   n > 0 
-  puts "#{number} SECOND(S)!"
-  number -= 1
+  puts "#{n} SECOND(S)!"
+  n -= 1
 end
 puts "HAPPY NEW YEAR!"
 end
